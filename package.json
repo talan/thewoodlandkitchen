@@ -1,0 +1,13 @@
+{
+  "name": "thewoodlandkitchen",
+  "scripts": {
+    "start": "node index",
+    "images": "./bin/respimages 320 480 640 960 1280 1920 2560"
+  },
+  "dependencies": {
+    "express": "^4.14.0",
+    "history": "^4.3.0",
+    "react-router": "^2.8.1",
+    "virtual-dom": "^2.1.1"
+  }
+}
